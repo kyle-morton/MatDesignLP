@@ -116,6 +116,10 @@
     <Content Include="img\overlays\07.png" />
     <Content Include="img\overlays\08.png" />
     <Content Include="img\overlays\09.png" />
+    <Content Include="img\overlays\dotnet.jpg" />
+    <Content Include="img\overlays\html5jscss.png" />
+    <Content Include="img\overlays\java.jpg" />
+    <Content Include="img\overlays\microsoft.jpg" />
     <Content Include="index-Sample.html" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.min.js" />
