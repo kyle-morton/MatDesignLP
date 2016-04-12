@@ -115,6 +115,7 @@
     <Content Include="img\img\overlays\07.png" />
     <Content Include="img\img\overlays\08.png" />
     <Content Include="img\img\overlays\09.png" />
+    <Content Include="index-Sample.html" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\jquery.min.js" />
