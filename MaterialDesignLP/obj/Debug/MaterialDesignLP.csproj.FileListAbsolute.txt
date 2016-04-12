@@ -1,0 +1,6 @@
+C:\Users\kmorton.WEHCO\Documents\Visual Studio 2013\Projects\MaterialDesignLandingPage\MaterialDesignLP\bin\MaterialDesignLP.dll.config
+C:\Users\kmorton.WEHCO\Documents\Visual Studio 2013\Projects\MaterialDesignLandingPage\MaterialDesignLP\bin\MaterialDesignLP.dll
+C:\Users\kmorton.WEHCO\Documents\Visual Studio 2013\Projects\MaterialDesignLandingPage\MaterialDesignLP\bin\MaterialDesignLP.pdb
+C:\Users\kmorton.WEHCO\Documents\Visual Studio 2013\Projects\MaterialDesignLandingPage\MaterialDesignLP\obj\Debug\MaterialDesignLP.csprojResolveAssemblyReference.cache
+C:\Users\kmorton.WEHCO\Documents\Visual Studio 2013\Projects\MaterialDesignLandingPage\MaterialDesignLP\obj\Debug\MaterialDesignLP.dll
+C:\Users\kmorton.WEHCO\Documents\Visual Studio 2013\Projects\MaterialDesignLandingPage\MaterialDesignLP\obj\Debug\MaterialDesignLP.pdb
